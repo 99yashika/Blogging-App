@@ -1,7 +1,7 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_blog/services/crud.dart';
-import 'package:flutter_blog/views/create_blog.dart';
+import 'package:online_journal_site/services/crud.dart';
+import 'package:online_journal_site/create_blog.dart';
 
 class HomePage extends StatefulWidget {
   @override
